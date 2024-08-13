@@ -18,6 +18,6 @@
 + 🍜 Eat 
 
 ## Membership
-_💗My have a soul mate.💗_
+_💗I have a soul mate.💗_
 
 > Falling in love with you is the second best thing in my life, because finding you was the first.
