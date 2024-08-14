@@ -10,7 +10,9 @@
 - 2023-present USTC: Hefei, Anhui, China | School of Physical Science | Undergraduate
 - 2015-2023: Unknown schools in Wuhan, Hubei, China | Elementary School & Junior High School & Senior High School
 - 2011-2015: An unknown school in Tianjin, Tianjin, China | Primary School
-### 📫 E-mail: uphi.ustc@gmail.com
+### 📫 E-mail: 
+- yuhongfei@mail.ustc.edu.cn
+- uphi.ustc@gmail.com
 
 ## Skills
 + ✅ \$\LaTeX\$
